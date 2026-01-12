@@ -1,70 +1,28 @@
-# 👋 Hi, I’m Jimmy
+# Hi, I’m Jimmy 👋
 
-I’m a product leader who builds AI systems to learn, validate decisions, and move faster.
+Product leader building AI systems to learn, validate product decisions, and move from zero to one.  
+Product background, builder by necessity — I build to make ideas tangible.
 
-My background is in product, not engineering, but building has become the most effective way for me to explore ideas, test assumptions, and make trade-offs tangible. Increasingly, it’s faster to build something real than to explain it.
-
----
-
-## 🧭 Why this GitHub exists
-
-This is where I work in public on non-commercial projects:
-
-- AI agents and applied AI workflows  
+## What I work on 🔧
+- AI agents and applied AI systems  
 - Prototypes and proofs of concept  
-- UIs and foundations others can build on  
+- UIs and building blocks others can extend
 
-I use this space to go from zero to one, learn by doing, and pressure-test product ideas before they turn into strategy or scale.
+## What this profile is 📌
+Non-commercial work, experiments, and patterns I’ve built for myself and teams.  
+Pinned repos are intentional — they reflect product thinking through building.
 
-Most projects start small. Some stay small on purpose.
+## A belief I build by 💡
+Most people overestimate how much technology is required and the outcomes it will deliver, and underestimate the human perspective.  
+I aim to build human-centered products with just enough technology.
 
----
+## About me 🚀
+I work in consulting as a product manager, leading enterprise AI initiatives and helping build LINKIT’s business in the US.
 
-## 🔧 How I build
+My focus is on turning enterprise AI from strategy into working systems: defining the right problems, designing human-centered solutions, and building just enough technology to validate decisions and scale what works. I use GitHub to explore ideas, prototype AI agents, and pressure-test product thinking through code.
 
-I build to learn.  
-I build to validate product decisions.  
-And I build because it’s now often faster than explaining.
+If you want to hear how I think:
+- [Webinar on building enterprise AI agents](https://www.outsystems.com/webinars/agent-workbench-demo/)  
+- [Podcast conversation](https://www.youtube.com/watch?si=WeCWxfF-fGQ1vh3N&v=cgOITwcjZEg&feature=youtu.be)
 
-The goal is not perfect code or a fashionable stack. The goal is to understand:
-- what actually matters to users  
-- where complexity helps and where it hurts  
-- what “just enough technology” looks like in practice  
-
----
-
-## 🚀 What I’m focused on
-
-- Human-centered AI systems  
-- Practical agent setups that do real work  
-- Lightweight tooling that removes friction rather than adding it  
-- Exploring how far you can get with less technology than people assume  
-
-Automation shows up naturally in most projects, but it’s rarely the starting point.
-
----
-
-## 📌 How to read this profile
-
-Pinned repositories are intentional. They highlight:
-- End-to-end product thinking, not isolated experiments  
-- Clear problem framing and trade-offs  
-- Work that was built to be used, not just demonstrated  
-
-Each README is treated like a product artifact: what it does, why it exists, how to try it, and what I learned building it.
-
----
-
-## 💡 A belief I build by
-
-Most people overestimate how much technology is required and the outcomes it will deliver.  
-They underestimate the human perspective when building products.
-
-I try to build human-centered products with just enough technology to make them work.
-
----
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/jimmy-iliohan
-- Website / portfolio: https://jimmy-iliohan.com
+If you want to exchange notes on enterprise AI agents, product management strategies (including vibe coding), or building product pipelines, feel free to reach out.
