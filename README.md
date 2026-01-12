@@ -1,7 +1,7 @@
 # Hi, I’m Jimmy 👋
 
 Product leader building AI systems to learn, validate product decisions, and move from zero to one.  
-Product background, builder by necessity — I build to make ideas tangible.
+Product background, builder by necessity. I build to make ideas tangible.
 
 ## What I work on 🔧
 - AI agents and applied AI systems  
@@ -10,7 +10,7 @@ Product background, builder by necessity — I build to make ideas tangible.
 
 ## What this profile is 📌
 Non-commercial work, experiments, and patterns I’ve built for myself and teams.  
-Pinned repos are intentional — they reflect product thinking through building.
+Pinned repos are intentional. They reflect product thinking through building.
 
 ## A belief I build by 💡
 Most people overestimate how much technology is required and the outcomes it will deliver, and underestimate the human perspective.  
