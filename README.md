@@ -5,14 +5,15 @@ Product background, builder by necessity.
 
 ## What I work on 🔧
 - Enterprise AI agents and applied AI systems  
-- Prototypes, proofs of concept, and UIs others can build on
+- Product-led AI initiatives in complex organizations  
+- Prototypes and proofs of concept to validate ideas early  
+- UIs, workflows, and building blocks others can extend  
+- Exploring how far you can get with just enough technology
 
 ## About me 🚀
 I work in consulting as a product manager, leading enterprise AI initiatives and helping build LINKIT’s business in the US.
 
-I use GitHub to explore ideas, prototype AI agents, and pressure-test product thinking through code.
-
-Most people overestimate how much technology is required and underestimate the human perspective. I aim to build human-centered products with just enough technology.
+I use GitHub to explore my non-commercial ideas, prototype AI agents, and pressure-test product thinking through code.
 
 If you want to hear how I think:
 - [Enterprise AI agents webinar](https://www.outsystems.com/webinars/agent-workbench-demo/)
