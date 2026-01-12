@@ -3,7 +3,7 @@
 Product leader building AI systems to learn, validate product decisions, and move from zero to one.  
 Product background, builder by necessity.
 
-## What I work on 🔧
+What I work on 🔧
 - Enterprise AI agents and applied AI systems  
 - Product-led AI initiatives in complex organizations  
 - Prototypes and proofs of concept to validate ideas early  
