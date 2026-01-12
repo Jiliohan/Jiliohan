@@ -17,7 +17,7 @@ Most people overestimate how much technology is required and the outcomes it wil
 I aim to build human-centered products with just enough technology.
 
 ## About me 🚀
-I work in consulting as a product manager, leading enterprise AI initiatives and helping build LINKIT’s business in the US.
+I work in consulting as a product manager, leading enterprise AI initiatives and building LINKIT’s business in the US.
 
 My focus is on turning enterprise AI from strategy into working systems: defining the right problems, designing human-centered solutions, and building just enough technology to validate decisions and scale what works. I use GitHub to explore ideas, prototype AI agents, and pressure-test product thinking through code.
 
